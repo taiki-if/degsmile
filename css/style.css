@@ -88,8 +88,7 @@ header
 }
 
 .header-container.large {
-  /* padding: 30px 58px 30px; */
-  padding: 15px 20px;
+  padding: 20px 20px;
   background-color: #000;
   transition: all .3s;
 }
